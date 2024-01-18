@@ -21,7 +21,7 @@ Sto affinando le mie abilità in:
 Sono aperto a collaborazioni su progetti interessanti. Se hai un'idea intrigante o stai cercando un compagno di sviluppo, non esitare a contattarmi!
 
 ### 📫 Come raggiungermi
-Puoi trovarmi su LinkedIn [www.linkedin.com/in/mirza-durakovic-webdev] o inviarmi una email a [mirza.durakovic94@gmail.com].
+Puoi trovarmi su LinkedIn [www.linkedin.com/in/mirza-durakovic-webdev] 
 
 
 
